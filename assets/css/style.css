@@ -1,0 +1,46 @@
+p {
+    width: 75rem;
+    height: 2rem;
+    border: 3px black solid;
+    text-align: center;
+    font-size: 1.5rem;
+    float: left;
+    margin: 0;
+    background-color: #000000;
+    color: white;
+}
+
+.sct {
+    width: 25rem;
+    height: 30rem;
+    border: 1px black solid;
+    text-align: center;
+    font-size: 1rem;
+    float: left;
+    background-color: #d12f2f;
+}
+
+textarea {
+    width: 23rem;
+    border: hidden;
+    resize: none;
+    text-align: justify;
+    background-color: #d12f2f;
+}
+
+.preInfo {
+    height: 6rem;
+}
+
+#realInfo {
+    height: 25rem;
+}
+
+h1 {
+    margin: 0.7rem;
+}
+
+#textLow {
+    font-size: 0.5rem;
+    line-height: 2rem;
+}
